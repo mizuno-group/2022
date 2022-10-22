@@ -1,12 +1,15 @@
 # Publication
-This repository contains works by Mizuno group.  
+This repository contains works by Mizuno group in 2022.  
+
+# Content
+- EDmodel: Investigation of chemical structure recognition by encoder-decoder models in learning progress  
 
 # Member
 - [Katsuhisa Morita](https://github.com/KatsuhisaMorita)  
 - [Shumpei Nemoto](https://github.com/Nemoto-S)  
 - [Iori Azuma](https://github.com/groovy-phazuma)  
 - Takumi Iwasaka  
-- Yasuyuki Yoshikai  
+- Yasuhiro Yoshikai  
 - [Tadahaya Mizuno](https://github.com/tadahayamiz)  
 
 # Contact
