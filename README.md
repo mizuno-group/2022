@@ -1,12 +1,9 @@
-# 論文タイトル
-XXXX  
+# Publication
+This repository contains works by mizuno group.  
 
-# Identifier
-- preprint  
-    - {Not yet, arxiv ID}  
-- publication  
-    - {Not yet, 採用された場合のDOI等}  
-
-# Contents
-内容の箇条書き, 注意点等があれば  
-
+# Contact
+- Tadahaya MIZUNO  
+- Laboratory of Molecular Pharmacokinetics Graduate School of Pharmaceutical Sciences The University of Tokyo  
+- email  
+    - tadahaya@gmail.com  
+    - tadahaya@mol.f.u-tokyo.ac.jp  
