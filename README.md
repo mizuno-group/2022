@@ -2,7 +2,8 @@
 This repository contains works by Mizuno group in 2022.  
 
 # Content
-- EDmodel: *Investigation of chemical structure recognition by encoder-decoder models in learning progress*  
+- EDmodel  
+    - *Investigation of chemical structure recognition by encoder-decoder models in learning progress*  
 
 # Member
 - [Katsuhisa Morita](https://github.com/KatsuhisaMorita)  
