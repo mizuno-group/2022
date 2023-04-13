@@ -14,12 +14,13 @@ This repository contains works by Mizuno group in 2022.
 - [Tadahaya Mizuno*](https://github.com/tadahayamiz)  
     - correspondence  
 
-# Contact
+# Almuni
+- [Shotaro Maedera](https://github.com/ShotaroMaedera)  
+
+# Contact Us
+### Principal Investigator
 - [Tadahaya Mizuno](https://github.com/tadahayamiz)  
-- Laboratory of Molecular Pharmacokinetics Graduate School of Pharmaceutical Sciences The University of Tokyo  
+- Laboratory of Molecular Pharmacokinetics, Graduate School of Pharmaceutical Sciences, The University of Tokyo  
 - email  
     - tadahaya@gmail.com  
     - tadahaya@mol.f.u-tokyo.ac.jp  
-
-# Almuni
-- [Shotaro Maedera](https://github.com/ShotaroMaedera)  
