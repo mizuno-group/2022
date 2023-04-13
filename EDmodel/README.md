@@ -11,4 +11,4 @@
 - preprint  
 	- arXiv:2210.16307   
 - publication  
-	- Not yet  
+	- DOI: 10.1186/s13321-023-00713-z  
